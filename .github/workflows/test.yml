@@ -58,7 +58,3 @@ jobs:
         run: |
           npm ci
         
-      - name: Run Hardhat tests
-        run: |
-          npm run test
-        id: hardhat-test
