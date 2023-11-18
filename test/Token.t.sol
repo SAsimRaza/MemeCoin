@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.13;
+pragma solidity 0.8.12;
 
 import "forge-std/Test.sol";
 
@@ -13,6 +13,6 @@ contract TokenTest is Test {
     }
 
     function testName() public {
-        assertEq(t.name(), "Token");
+        assertEq(t.name(), "ABCmeme");
     }
 }
