@@ -1,3 +1,5 @@
+### Deployed: https://goerli.etherscan.io/address/0x34ADc14aCA8fb67b24A9105Af0e63ecE44BA5336#code
+
 # <h1 align="center"> Hardhat x Foundry Template </h1>
 
 **Template repository for getting started quickly with Hardhat and Foundry in one project**
